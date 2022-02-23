@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canterburies amazement, or, The ghost of the yong [sic] fellow Thomas Bensted who was drawne, hangd, and quartered by the meanes of the Bishop of Canterburie, who appeared to him in the Tower since the Iesuites execution : with a discourse between the two heads on London Bridge, the one being Thomas Bensteeds [sic], the other the late Iesuites.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33347</idno>
+            <idno type="STC">Wing C456</idno>
+            <idno type="STC">ESTC R7838</idno>
+            <idno type="EEBO-CITATION">11801956</idno>
+            <idno type="OCLC">ocm 11801956</idno>
+            <idno type="VID">49388</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33347)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49388)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 18:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Canterburies amazement, or, The ghost of the yong [sic] fellow Thomas Bensted who was drawne, hangd, and quartered by the meanes of the Bishop of Canterburie, who appeared to him in the Tower since the Iesuites execution : with a discourse between the two heads on London Bridge, the one being Thomas Bensteeds [sic], the other the late Iesuites.</title>
+               </titleStmt>
+               <extent>8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coules ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page vignette (woodcut).</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bensted, Thomas.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49388:1" rendition="simple:additions"/>
+            <pb facs="tcp:49388:1" rendition="simple:additions"/>
+            <p>CANTERBVRIES AMAZEMENT: OR The Ghoſt of the yong fellow <hi>Thomas Benſted,</hi> who was Drawne, Hangd, and Quartered by the meanes of the Biſhop of CANTERBURIE; who appeared to him in the Tower, ſince the <hi>Ieſuites</hi> Execution.</p>
+            <p>With a Diſcourſe between the two Heads on <hi>London</hi> Bridge, the one being <hi>Thomas Benſteeds,</hi> the other the late <hi>Ieſuites.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut scene depicting Thomas Bensted's dismembered corpse, with his ghost appearing to a sleeping man</figDesc>
+               <q>who are thou</q>
+               <q>I am thom<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Bensteed</q>
+            </figure>
+            <p>Printed for <hi>F. Coules,</hi> in the Yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="2" facs="tcp:49388:2"/>
+            <head>Canterburies amazement: OR The Ghoſt of the young fellow <hi>Thomas Benſteed,</hi> who was drawne, hang'd, and quartered, by the crueltie of the Biſhop of CANTERBURIE; who lately appeared to him in the Tower, ſince the Jeſuites Execution.</head>
+            <sp>
+               <speaker>Canterburie.</speaker>
+               <p>
+                  <seg rend="decorInit">T</seg>HIS is the time that everie Creature hath his dull ſen<g ref="char:EOLhyphen"/>ce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wrapt in ſilent ſleep: the hardie labourer that toils all day, and wearies his irkſome members with in<g ref="char:EOLhyphen"/>ceſſant labours this houre has a free diſpenſation from his paines, and eaſeth his wearied body with ſoundeſt ſleep. The covetous and priping Vſurer that is not capable of the leaſt intermiſſion, but eſteems each mi<g ref="char:EOLhyphen"/>nute an age, wherein he doth not imploy his working braine, labours with ſubtile inventions to augment the maſſie ſtock of his ill-got and un<g ref="char:EOLhyphen"/>neceſſarie treaſure, at this minute enioyes his naturall reſt. The craftie Politician, whoſe reſtleſſe perecranion is continually full of divers im<g ref="char:EOLhyphen"/>perfect and indigeſted crockets, quaint devices, and State proiects, this mid-night hour <hi>Morpheus</hi> hath dandled his over wearied ſences into ſound and ſenceleſſe ſleep, all creatures are huſht into quiet reſt: There is no noyſe at all ſtirring in Citie or Countrie, not ſo much as the barking of dogges, or howling of wolves, yet I am ſo haunted with idle fancies and imaginarie conceits, that ſleep theſe eight dayes hath beene to mee a meere ſtranger. One night I ſee many religious Miniſters (whom for too much ſedulitie and diligence in the execution of their miniſteriall
+<pb n="3" facs="tcp:49388:2"/>functions, and for their obſtinacy to innovations, and their induſtrious care of the ſoules committed to their charge, I have not onely deprived them of their Benefices, ſequeſtred their eſtates, and thereby utterly undone them, their poore wives and children, but made them uncapable of any Prieſtly function here in their Native Countrie; and they were thereby enforced to ſeek their livelybood in remote and forraigne places, though they were ancient, or by any other way unable to undergoe Travaile, offering the incenſe of their prayers againſt me: another night me thinks I ſee my dire oppreſſions, preſented in a helliſh Maſke, each act that I have done is laid before me in my ſleep; among which I finde few good ones; yet why ſhould I be tranſported with feare, for ſhadowes they have no ſubſtance and are cauſed by dull and melanchely fancies: a faint-hearted ſouldier that can ſlay, and then be touched with remorſe of con<g ref="char:EOLhyphen"/>ſcience for what he has done: Why ſhould I be afraid to behold the appa<g ref="char:EOLhyphen"/>ritions of thoſe things which I before delighted to enact? Avant then idle feare, ſeek thy abode in others breaſts, I will not harbour thee in mine, and yet I muſt: Bleſſe me my better Genius! what doe I ſee! the formidable figure of a quartered man: my Reſolution now playes the unconſtant woman; my whole body is a perpetuall palſie, my ſen<g ref="char:EOLhyphen"/>ces never were benumb'd till now, my rationall part of man begin to forſake my drooping ſoule; <hi>Courage,</hi> I never found defect of thee till now. Let me have ſtrength enough to ſpeake unto this ayrie ſubſtance. What art thou that at this dead houre of the night, aſſailſt my quiet chamber? ſpeake what is thy buſineſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Benſteed.</speaker>
+               <p>Why my Lord, is your grace ſenceleſſe? know you not me? I am Drum-Maior <hi>Benſteed,</hi> that with my gallant <hi>Myrmidons</hi> come thus in Armes the ſecond time. Why doe you ſtand ſo like a Statue? Doe you truſt to the iuſtice of your cauſe? Why doe not you take your Barge and waft your Grace to <hi>White-hall;</hi> there's the Sanctuarie you once fled to for aid.</p>
+            </sp>
+            <sp>
+               <speaker>Canter.</speaker>
+               <p>Tis needleſſe, I am ſafer here, and in a ſtronger houſe: and for that <hi>Benſteed</hi> thou nameſt, he is ſecure enough; I fixt his head on <hi>Lon<g ref="char:EOLhyphen"/>don</hi> bridge, there he keeps watch; the <hi>Scots</hi> cannot come in, but he muſt deſcrie them.</p>
+            </sp>
+            <sp>
+               <speaker>Benſteed.</speaker>
+               <p>O my Lord, but <hi>Benſteed</hi> has a fellow watchman that does now ſupply my place, one of your Graces friends now beares mee company: this is his firſt night: he's a verie learned grave man: your Grace I am confident knowes him.</p>
+            </sp>
+            <sp>
+               <speaker>Canter.</speaker>
+               <p>What was his name, and for what offence does he beare thee companie?</p>
+            </sp>
+            <pb n="4" facs="tcp:49388:3"/>
+            <sp>
+               <speaker>Benſteed.</speaker>
+               <p>A Ieſuite, my Lord, his name is <hi>Ward, Walker, Waller, Slater,</hi> or any of them.</p>
+            </sp>
+            <sp>
+               <speaker>Canter.</speaker>
+               <p>A Ieſuite? and ſo many names? I wonder that I never heard of him. O how negligent were my High Commiſſion Officers, that could not hunt out that piece of Superſtition?</p>
+            </sp>
+            <sp>
+               <speaker>Benſt.</speaker>
+               <p>I proteſt my Lord, your Grace diſſembles admirably: as if a Ieſuite could not live in peace for your Officers: alas, my Lord, they were better imployed, in ſeeking out men that repeated Sermons toge<g ref="char:EOLhyphen"/>ther, and could have better Compoſitions of them than of Ieſuites, they were rather priviledged than puniſhed.</p>
+            </sp>
+            <sp>
+               <speaker>Canter.</speaker>
+               <p>But ſpeak if thou be that <hi>Benſteed,</hi> what is thy buſineſſe here? wherefore doſt thou thus haunt me in this fearefull ſhape?</p>
+            </sp>
+            <sp>
+               <speaker>Benſt.</speaker>
+               <p>My Lord, I come to know wherefore I was made ſuch an example, and to diſpute the cauſe, I was ſo uniuſtly put to death?</p>
+            </sp>
+            <sp>
+               <speaker>Canter.</speaker>
+               <p>Becauſe thou waſt found guiltie of Treaſon, and therefore according to the Lawes of <hi>England,</hi> ought to bee hang'd, drawne, and quartered.</p>
+            </sp>
+            <sp>
+               <speaker>Benſt.</speaker>
+               <p>Oh my Lord; the Lawes of <hi>England</hi> never made Riots Trea<g ref="char:EOLhyphen"/>ſon: and I had no hand my Lord in breaking open the White Lion priſon: the greateſt matter I did my Lord was, I attempted to break open your fortified Gates with a Broom ſtick, which was a thing altogether impoſ<g ref="char:EOLhyphen"/>ſible; which had I done my Lord, it had beene at the worſt but Fellonie or Burglarie, and not Treaſon, but I was poore, and one fit to ſuffer; I had no gratuities to beſtow on your Grace, I had no Buts of Sack for your Cellar, nor Beaver hat, perfumed Gloves, or pluſh Cloak for your Gentlemen: If I had as good ſtore of Peeces my Lord, to have pre<g ref="char:EOLhyphen"/>ſented Petitions to your Grace withall, I might then perchance have had them ſubſcribed with a <hi>We referre this Petition,</hi> with a private note in the Margent; but wanting theſe, I ought to dye, though for no o<g ref="char:EOLhyphen"/>ther crime.</p>
+            </sp>
+            <sp>
+               <speaker>Canter.</speaker>
+               <p>Why ſimple fellow, doſt thou know what belongeth to the <hi>Engliſh</hi> Lawes better than thoſe grave Iudges who ſate on the Bench at thy tryall, that thou makeſt theſe bold diſtinctions? and doſt thou chal<g ref="char:EOLhyphen"/>lenge them of iniuſtice? they had a hand in the buſineſſe as well as myſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Benſt.</speaker>
+               <p>I dare not taxe the Iudges, let thoſe that have ſued in <hi>for<g ref="char:EOLhyphen"/>ma pauper is</hi> do that; ſor it may be your politick Lordſhip informed them more than what was truth, or it may be they took your Grace rather for a Pope than a ſubiect, and ſo it became Treaſon; but if otherwiſe, let them be aſſured my cauſe will have a revenge: And for your ſelfe, who all the Kingdome knowes is guiltie of this, and many more greater Offences,
+<pb n="5" facs="tcp:49388:3"/>reſt confident that my recompence will not bee verie eaſie.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>But good Mr. <hi>Benſteeds</hi> Ghoſt, let me know the cauſe, why you accompanied with your fellow Rebells, ſought my life more than a<g ref="char:EOLhyphen"/>ny mans elſe? I am utterly ignorant of any crime whereof I was guil<g ref="char:EOLhyphen"/>tie to incenſe any man againſt me.</p>
+            </sp>
+            <sp>
+               <speaker>Benſt.</speaker>
+               <p>So you are ignorant of ſowing diſcord between the <hi>Scots</hi> and us: How many truely affected ſubiects loſt their lives, more precious than your owne in that skirmiſh? and how many ſhould have loſt their lives, had your proiects taken their full effect? Moreover I believe you are ignorant, that when a Parliament was begun, and every poore man that had beene uniuſtly wrong'd, might without the giving of gratuities have had his iniuries righted, who was the chiefe cauſe of its diſſoluti<g ref="char:EOLhyphen"/>on? all this you are pleaſed to forget, but aſſure your ſelfe it will bee re<g ref="char:EOLhyphen"/>membred. You have forgot too I believe beſtowing Benefices on <hi>non Reſidents,</hi> that would preach once a moneth, and keep Curats who would read long ſervice, tickle them up with Homilies, and alwayes conclude within the time, and never preach in the afternoone, but ſpend that time in mirth and good fellowſhip amongſt their neighbours, in the Ale-houſe, or at Bowles, according to your book which tollerated Sun<g ref="char:EOLhyphen"/>dayes Paſtimes. Nor you doe not remember, that you would have had the Kingdome governed by the Civill Law onely: then your High Com<g ref="char:EOLhyphen"/>miſſion would have beene high enough indeed, ſo high as it is low now. You have forgot alſo the threatnings you beſtowed upon the Iudges that oppoſed the Ship-money. You have forgot too the ſounding of the new Canons, and the <hi>ex Officio</hi> Oath &amp;c. You have forgot that you endea<g ref="char:EOLhyphen"/>voured to pull downe the French Church, which was erected for the French Proteſtants that fled hither for ſuccour: had they been Papiſts, their Church might have ſtood long enough without your contradiction.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>O gentle ſoule, I believe thou knoweſt all my faults, which are farre more than thoſe thou haſt put me in mind of: Let me intreat thée therefore, to leave me, that I may repaire to my devotion, and crave pardon from heaven for theſe and all the reſt of my miſdoings, and ſtudy to give the wronged world what ſatisfaction poſſible I may: wrack not my wounded conſcience with the remembrance of my horrid acts; if any pittie harbour within thee (wronged Spirit) let me be its obiect: I crave for pittie that before had none.</p>
+            </sp>
+            <sp>
+               <speaker>Benſt.</speaker>
+               <p>O my little good Lord, had you been compoſed of mercy and iuſtice, you would have mingled one with the other, and not let iuſtice take place, becomming ſo ſevere and cruell to proſecute the Law againſt me, as to ſend for the Iudges, and to compell them by menacing words at your houſe, to make it treaſon, when neither Act nor Preſident could bee
+<pb n="6" facs="tcp:49388:4"/>found for the like; you might have cenſured me to have loſt my eares, or have branded me in the forehead and cheeks, and ſo have baniſhed me: but to take my life, and thus to mangle me, and let my blood be ſpilt upon the thirſty ground, which was as thirſty as your obdurate heart: but look which way you pleaſe, goe which way you can, I am ſtill in your ſight, hers an arme and a leg Weſtward, there an arme and a leg Eaſtward; this is inhumanity, and eſpecially from you, and one of your Coat and fun<g ref="char:EOLhyphen"/>ction: the Law it ſelfe hath provided mercy for ſome relinquents; and you to have no compaſſion, which ſhould plead for mercie! But it is noted, you never ſpared any, but proſecuted them to the heighth of your malice as you have done me poore man.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>I confeſſe, it was my onely act, &amp; by my inſtigation; but I would thou hadſt been executed in any other place, than at that which is my way to my Countrie Pallace at <hi>Croydon.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Benſt.</speaker>
+               <p>But why was I quartered, and thus in peece-meale ſet up at each gate, for birds and other ravenous ſoules to be made a prey unto, and to endure now a pluck, and th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a tug from the hunglie Crowes as they flie
+<figure>
+                     <figDesc>woodcut scene of a man cutting open a woman and removing her heart with a dismembered body hanging on the city walls surrounding him</figDesc>
+                  </figure>
+                  <pb n="7" facs="tcp:49388:4"/>over me, to make me ſtill crie out, <hi>O cruell Canterburie, remember I was a Chriſtian, and ſo dyed a penitent Chriſtian.</hi> Was my fact ſo haynous that nothing could pacifie your rage, that when my life was expired, my torne and ſlaughtered carkaſſe muſt be hung between heaven and earth, as not worthy of either: I ſpilt no blood in the mutinie, (as I have ſaid) but I have read that Church-men, and women, are ſtill moſt bloody minded, as the Martyrs are monuments of the crueltie of bloody <hi>Bonner,</hi> &amp; malicious <hi>Gardner;</hi> and now you cruell <hi>Laud</hi> and ſpightfull <hi>Wren,</hi> to each of you, and thoſe Iudges of the Law which iudged me, I have given my quarters for a memoriall.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Enough, all is true thou haſt ſaid concerning them; but for thy par<g ref="char:EOLhyphen"/>ticular, I was informed that thou wert a Prentiſe of <hi>London,</hi> and ſent with divers others by your Maſters to pull downe my Pallace, becauſe <hi>I</hi> confeſſe, I was ever an enemie to the Citizens and Citie for divers reaſons, and therefore did command this iuſtice to be done, for others to take example by.</p>
+            </sp>
+            <sp>
+               <speaker>Benſt.</speaker>
+               <p>Alas, I was a young man, and but nineteen yeares of age, and not of ripe years, but as full of ſorrow for your crueltie; for had you ſuffered my body to have been buried, I might have been forgotten in a ſhort ſpace, but to ſet my diſmembred ioynts upon the gates of this ſtately Citie for every one to gaze on, ſavourd not of that Chriſtianitie which you ſeem'd to profeſſe, unleſſe it were of that ſuperſtitious Religion, that practiſes onely blood, and builds them Altars with the bones of Martyrs.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>O ſpeake no more, thou haſt penetrated my proud heart, and mollified my ſeared conſci<g ref="char:EOLhyphen"/>ence: what would I not give to redeeme thy life, if it were poſſible?</p>
+            </sp>
+            <sp>
+               <speaker>Benſt.</speaker>
+               <p>Your wiſhes come to late; but let me thus adviſe you, procure by ſome meanes, that my parched limbs may be taken downe, that thoſe friends, kindred, and countrie men, nay my poore father, and mother, may not forſake their concourſe to <hi>London</hi> about their livelihood, and trade; for ſometimes I am forgotten by them, when other matters of greater conſequence is in their heads: but when they come neare <hi>London</hi> bridge, then is their griefe renew<g ref="char:EOLhyphen"/>ed with anxietie of mind, ready to ſtrike them dead when they ſee my head, as if I were ſet up on purpoſe to croſſe and perplexe them, or to examine their private buſineſſes, or wherefore they come, this is a double ſuffering; nay my Lord, be not much affrighted, nor doe not ſhake and ſhiver too much: let not your Gentlemen which lie here at your beds feet in a Trundle bed bee di<g ref="char:EOLhyphen"/>ſturbed by your paſſion: but let me now admoniſh and tell you, that you muſt labour and ſtudy with all your might, as ever you did to raiſe yourſelfe to be a Biſhop, to repent for your ſins, and not onely ſo, but labour to give ſatiſ<g ref="char:EOLhyphen"/>faction for the wrong you have done to ſeverall men: I could give you a cata<g ref="char:EOLhyphen"/>logue of thoſe mens names which you have highly iniured: but I wil forbear, becauſe I know you cannot forget them, eſpecially having ſo good a memo<g ref="char:EOLhyphen"/>rie, &amp; now no State affaires to trouble your Grace withall: and ſo farewell,
+<pb n="8" facs="tcp:49388:5"/>referring you not to an High Commiſſioner, but to your owne ſelfe, which if you doe really performe, you ſhall upon your ſubmiſſion be ſilent as a dead <hi>Duck,</hi> or an innocent <hi>Lamb.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Prethee leave me.</p>
+            </sp>
+            <sp>
+               <speaker>Benſt.</speaker>
+               <p>Well, Ile leave thee, and yet ſtill be with thee; for aſſure thy ſelfe, that when thou doſt appeare before the Parliament, I will be alſo there, and be a torment, not a comfort, to thy afflicted conſcience: with the eyes of thy imagination thou ſhalt behold my ſever'd limbs, and then
+<q>
+                     <l>Conceive what trembling in thy joynts ſhall dwell,</l>
+                     <l>Blood is the reward of blood: Farewell.</l>
+                  </q>
+               </p>
+            </sp>
+         </div>
+         <div type="dialogue">
+            <head>A Diſcourſe between the two Heads on <hi>London</hi> Bridge; the one <hi>being</hi> Benſteeds, <hi>the other the late</hi> Ieſuites.</head>
+            <sp>
+               <speaker>Benſteed.</speaker>
+               <p>WHO art thou, that dares come up without my conſent, and ſtand thus cheek by iole with me?</p>
+            </sp>
+            <sp>
+               <speaker>Ieſuite.</speaker>
+               <p>my name is <hi>Slater, Ward, Waller,</hi> and <hi>Walker,</hi> a Ieſuite I was by my profeſſion, and have taken Orders in that Societie theſe <hi>35.</hi> yeares and upwards, for which I was condemned, and am now come to be thy fellow watch-man, to overlook all.</p>
+            </sp>
+            <sp>
+               <speaker>Benſt.</speaker>
+               <p>And why ſo many names didſt thou beare?</p>
+            </sp>
+            <sp>
+               <speaker>Ieſuite.</speaker>
+               <p>The better to conceale my ſelfe, and all my plots and intentions.</p>
+            </sp>
+            <sp>
+               <speaker>Benſt.</speaker>
+               <p>Thou haſt now as many quarters as before thou hadſt names: but what plots hadſt thou in thy head, when it was on thy ſhoulders?</p>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <p>I may now reveale them which are paſt, becauſe I can invent no more: and the rather becauſe I had a pardon from the Pope before I was executed: we had many agents about the late plot which was intended againſt the Ci<g ref="char:EOLhyphen"/>tie of <hi>London,</hi> and the Tower, &amp; thoſe no mean ones: for had our plots tooks effect, I had been advanced to a more eminent place with my head on my ſhoulders, than now I am without it, had I been wife, and not too confident of my ſelfe and my diſguiſe, I might have fled, and bin as ſafe as the reſt of the Conſpirators.</p>
+            </sp>
+            <sp>
+               <speaker>Benſt.</speaker>
+               <p>I perceive your fact was more hainous than mine, and therfore may iuſtly claim place here better than I.</p>
+            </sp>
+            <sp>
+               <speaker>Ieſuite.</speaker>
+               <p>Not better Mr. <hi>Benſteed,</hi> for you are the ancienteſt ſtander of the two, and therefore may claime preheminence.</p>
+            </sp>
+            <sp>
+               <speaker>Benſt.</speaker>
+               <p>Your conſpiracie was againſt the ſtate of our whole Kingdom, to ruine that: mine was onely againſt a particular man, the Biſhop of <hi>Canterburie,</hi> a Subiect; yours of a higher conſequence, and for which you ſuffer iuſtly.</p>
+            </sp>
+            <sp>
+               <speaker>Ieſuite.</speaker>
+               <p>That's true; but had he that power ſtill as he had when thou wert condemned, <hi>I</hi> ſhould not have thus ſuffered. But I am wearie with my late iourney, and have got a ſcu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fing in my head, ſo that I am now ill at eaſe to relate the reſt of my plots at this time; which I will forbeare till our next nights conference.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49388:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
